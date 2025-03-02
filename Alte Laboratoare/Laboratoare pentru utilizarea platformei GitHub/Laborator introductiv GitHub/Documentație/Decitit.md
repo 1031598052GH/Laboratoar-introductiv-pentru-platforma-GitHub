@@ -1,6 +1,6 @@
-Curs introductiv pentru git
+Laborator introductiv pentru git
 
-Cuprinde comenzile:
+Comenzi folosite:
 
 git help
 git log
@@ -9,5 +9,6 @@ git commit
 git remote
 git push
 git reset
+git branch
 
-Adresa web a cursului: https://git-scm.com/docs/gittutorial
+Adresa LUR a laboratorului: https://git-scm.com/docs/gittutorial
